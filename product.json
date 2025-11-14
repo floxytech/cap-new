@@ -1,0 +1,47 @@
+[
+  {
+    "id": "p1",
+    "title": "Samsung Galaxy S21",
+    "category": "Phones",
+    "price": 45000,
+    "image": "https://picsum.photos/seed/phone1/600/400",
+    "description": "Flagship smartphone with excellent camera and performance.",
+    "stock": 12
+  },
+  {
+    "id": "p2",
+    "title": "Nike Air Max Shoes",
+    "category": "Shoes",
+    "price": 8000,
+    "image": "https://picsum.photos/seed/shoes1/600/400",
+    "description": "Comfortable everyday shoes.",
+    "stock": 25
+  },
+  {
+    "id": "p3",
+    "title": "2-Bedroom Apartment (Nairobi)",
+    "category": "Houses/ Apartments",
+    "price": 8500000,
+    "image": "https://picsum.photos/seed/house1/600/400",
+    "description": "Modern 2-bedroom apartment in a gated community.",
+    "stock": 1
+  },
+  {
+    "id": "p4",
+    "title": "Office Desk (Wooden)",
+    "category": "Home & Furniture",
+    "price": 12500,
+    "image": "https://picsum.photos/seed/furniture1/600/400",
+    "description": "Sturdy wooden desk for home or office use.",
+    "stock": 10
+  },
+  {
+    "id": "p5",
+    "title": "Beauty Care Kit",
+    "category": "Beauty & Personal Care",
+    "price": 2500,
+    "image": "https://picsum.photos/seed/beauty1/600/400",
+    "description": "Skincare and beauty starter pack.",
+    "stock": 40
+  }
+]

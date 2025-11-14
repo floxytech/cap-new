@@ -1,0 +1,37 @@
+caperone-store/
+├─ backend/
+│  ├─ package.json
+│  ├─ server.js
+│  ├─ .env.example
+│  ├─ data/
+│  │  └─ products.json
+│  ├─ routes/
+│  │  ├─ products.js
+│  │  ├─ orders.js
+│  │  └─ contact.js
+│  └─ utils/
+│     └─ mpesaMock.js
+├─ frontend/
+│  ├─ package.json
+│  ├─ public/
+│  │  └─ index.html
+│  └─ src/
+│     ├─ index.js
+│     ├─ App.js
+│     ├─ api.js
+│     ├─ components/
+│     │  ├─ Header.js
+│     │  ├─ Footer.js
+│     │  ├─ ProductCard.js
+│     │  └─ ProductGrid.js
+│     ├─ pages/
+│     │  ├─ Home.js
+│     │  ├─ Products.js
+│     │  ├─ ProductDetail.js
+│     │  ├─ Cart.js
+│     │  ├─ Checkout.js
+│     │  ├─ Login.js
+│     │  ├─ Signup.js
+│     │  └─ Contact.js
+│     └─ styles.css
+└─ README.md
